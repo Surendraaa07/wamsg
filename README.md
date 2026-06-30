@@ -1,0 +1,2 @@
+# wamsg
+auto wa msg
